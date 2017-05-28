@@ -21,3 +21,8 @@ if facing difficulty in installing libraries here is the link for the guide:
 2. PyQt5 - https://pypi.python.org/pypi/PyQt5
 
 Do change the Image Urls given in the code for a Window Icon and a Background Image .
+
+## Run:
+
+python Management_sys.py
+
