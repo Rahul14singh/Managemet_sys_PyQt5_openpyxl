@@ -24,5 +24,5 @@ Do change the Image Urls given in the code for a Window Icon and a Background Im
 
 ## Run:
 
-python Management_sys.py
+> python Management_sys.py
 
