@@ -363,9 +363,9 @@ class General(QWidget):
         except:
             self.setGeometry(10, 30, 1350, 750)
             
-        self.setWindowTitle('TechieNest')
-        self.setWindowIcon(QIcon('logso.png'))
-        oImage = QImage("image2.jpg")
+        self.setWindowTitle('Managemet System Software ')
+        self.setWindowIcon(QIcon('logso.png'))                          # Enter your Icon Image url here 
+        oImage = QImage("image2.jpg")                                   # Enter your Background Image url here
         sImage = oImage.scaled(QSize(1350,750))                   
         palette = QPalette()
         palette.setBrush(10, QBrush(sImage))
