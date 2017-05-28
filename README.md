@@ -28,6 +28,7 @@ if facing difficulty in installing libraries here is the link for the guide:
 - The excel will automatically created if the name mentioned in the Gui not exisists.
 - The excel would get updated on same sheet with new entries if excel with same name already exists.
 - The top three rows of details are necessary fields so if not mentioned correct pops will come up accordingly.
+- Validity of all these top three fields would be checked. 
 - With a single click on Clear button all the entries would get Initialised.
 - The sno. and token no. gets updated automatically but if in excel updated with new value will get updated to according to this new value.
 - With a single click on save Button entries would get saved.
