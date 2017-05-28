@@ -12,17 +12,18 @@ Pyinstaller can be used to make an executable file of the application and then c
 2. openpyxl installed  " pip3 install openpyxl " command for cmd to install library
 3. PyQt5 installed " pip3 install PyQt5 " command for cmd to install library
 
-Install Python3 from - https://www.python.org/downloads/
+Install  [Python](https://www.python.org/downloads/) . Do install Python3 or later .
 
 if facing difficulty in installing libraries here is the link for the guide:
 
-1. openpyxl - https://pypi.python.org/pypi/openpyxl
+1. [openpyxl](https://pypi.python.org/pypi/openpyxl)
 
-2. PyQt5 - https://pypi.python.org/pypi/PyQt5
+2. [PyQt5](https://pypi.python.org/pypi/PyQt5)
 
-Do change the Image Urls given in the code for a Window Icon and a Background Image .
+> Do change the Image Urls given in the code for a Window Icon and a Background Image .
 
 ## Run:
 
-> python Management_sys.py
-
+```
+  python Management_sys.py
+```
