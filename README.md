@@ -2,7 +2,7 @@
 
 ## Usage:
 
-GuI based application which is built to manage the data of a company on various grounds like Management systems (Storage, Students, Employees Anything).
+GUI based application which is built to manage the data of a company on various grounds like Management systems (Storage, Students, Employees Anything).
 
 Pyinstaller can be used to make an executable file of the application and then can be used on any system without any Python or it's supporting library.
 
